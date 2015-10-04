@@ -10,10 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            //aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-            //    bbbbbbbbbbbbbbbbbbbbbbbb
-            //    bbbbbbbbbbbbbbbbbbbbbbbbbb
-            //    vvvvvvvvvvvvvvvvvvvvvvvvvvv
+            
+
+            // cái này là edit rồi gửi lại thử koi 
 
         }
     }
